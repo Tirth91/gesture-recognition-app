@@ -1,6 +1,6 @@
 streamlit==1.44.0
 mediapipe==0.10.21
-opencv-python==4.11.0.86
+opencv-python-headless==4.9.0.80
 scikit-learn==1.6.1
 pandas==2.2.3
 numpy==1.26.4
