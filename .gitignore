@@ -4,6 +4,5 @@ __pycache__/
 *.pyd
 *.dll
 *.pkl
-*.h5
 *.ini
 
